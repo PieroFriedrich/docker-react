@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Docker + Node App working with GitHub Actions and AWS :)
         </a>
       </header>
     </div>
